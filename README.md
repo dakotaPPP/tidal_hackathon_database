@@ -15,7 +15,7 @@ conn = sqlite3.connect('main_database.db') --> conn = sqlite3.connect('your_data
 
 ## Achievements
 
-We're proud to share that this code contributed to our team securing the 4th position out of 64 teams at the competition! 🏆😄
+We're proud to share that this code, which contributed to our team receiving the 4th position out of 64 teams at the competition! 🏆😄
 
 Feel free to explore, contribute, or adapt this code for your own projects. If you have any questions or suggestions, don't hesitate to reach out.
 
