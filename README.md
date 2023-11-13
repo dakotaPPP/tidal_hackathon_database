@@ -10,7 +10,7 @@ If you're interested in replicating this database or using the associated comman
 
 ```python
 # Example command to change the database file name
-new_database_name = "your_custom_name.db"
+conn = sqlite3.connect('main_database.db') --> conn = sqlite3.connect('your_database_name.db')
 ```
 
 ## Achievements
